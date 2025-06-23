@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 7 урока ""Интеграции ClickHouse: работа с MySQL, S3, Kafka и внешними словарями"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_07_clickhouse_integration/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_07_clickhouse_integration/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
