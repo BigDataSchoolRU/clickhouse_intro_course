@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 8 урока "Аналитические суперсилы ClickHouse: Оконные и массивные функции"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_08_clickhouse_functions/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_08_clickhouse_functions/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
