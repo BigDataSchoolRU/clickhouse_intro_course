@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 2 урока "Типы данных и движки таблиц в ClickHouse: Фундамент для производительности"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_02_clickhouse_engines/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_02_clickhouse_engines/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Убедимся, что мы работаем в нашей базе данных.
