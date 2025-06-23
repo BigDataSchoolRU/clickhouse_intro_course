@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 1 урока "Что такое ClickHouse: Полный гид по колоночной СУБД для сверхбыстрой аналитики" 
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_01_clickhouse_intro/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_01_clickhouse_intro/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Создание новой базы данных.
