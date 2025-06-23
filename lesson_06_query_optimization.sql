@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 6 урока "Оптимизация запросов в ClickHouse: индексы, EXPLAIN и лучшие практики"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_06_clickhouse_indexes/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_06_clickhouse_indexes/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
