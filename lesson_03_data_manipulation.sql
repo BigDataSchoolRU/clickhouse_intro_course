@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 3 урока "Основы работы с данными в ClickHouse: вставка, выборка и первые аналитические запросы"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_03_clickhouse_DML/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_03_clickhouse_dml/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
