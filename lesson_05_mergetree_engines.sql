@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 5 урока "Глубокое погружение в движки MergeTree"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_05_clickhouse_DeepDiveEngines/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_05_clickhouse_DeepDiveEngines/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
