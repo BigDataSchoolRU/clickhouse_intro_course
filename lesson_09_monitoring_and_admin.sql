@@ -1,6 +1,6 @@
 
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 9 урока "Администрирование и мониторинг ClickHouse"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_09_clickhouse_admin_monitoring/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_09_clickhouse_admin_monitoring/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
