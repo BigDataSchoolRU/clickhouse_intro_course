@@ -1,5 +1,5 @@
 -- SQL-блокнот для Бесплатного онлайн курса "Основы ClickHouse"  по материалам статьи 4 урока "Продвинутые функции SQL в ClickHouse: обработка строк, дат и условная логика"
--- полный текст статьи: https://bigdataschool.ru/blog/news/free_course_04_clickhouse_advanced_dml/
+-- полный текст статьи: https://bigdataschool.ru/blog/news/clickhouse/free_course_04_clickhouse_advanced_dml/
 -- Автор: Bigdataschool.ru   "Школа Больших Данных"
 
 -- Шаг 1: Подготовка окружения.
